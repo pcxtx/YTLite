@@ -27,37 +27,37 @@
 "PreferredAudio" = "Pageidautinas audio takelis";
 "Selected" = "Pasirinktas";
 "English" = "Anglų";
-"SelectAudioTrack" = "Select audio track";
-"EnglishNotFound" = "English audio track not found";
+"SelectAudioTrack" = "Pasirinkti audio takelį";
+"EnglishNotFound" = "Takelis anglų kalba nerastas";
 
-"Captions" = "Captions/Subtitles";
-"EmbedCapsToVideos" = "Embed captions";
-"EmbedCapsToVideosDesc" = "Embeds selected captions/subtitles into videos.";
-"EmbedAutoGenCaps" = "Auto-generated/translated captions";
-"EmbedAutoGenCapsDesc" = "Adds auto-generated, translated, and auto-translated captions to the captions/subtitles list.";
-"DownloadCaptions" = "Download captions";
-"SelectCaption" = "Select captions/subtitles";
-"Translated" = "translated";
-"TranslatedAutoGen" = "auto-translated";
+"Captions" = "Antraštės/Subtitrai";
+"EmbedCapsToVideos" = "Įterptos antraštės";
+"EmbedCapsToVideosDesc" = "Įterpia pasirinktas antraštes/subtitrus į video.";
+"EmbedAutoGenCaps" = "Automatiškai sugeneruotos/išverstos antraštės";
+"EmbedAutoGenCapsDesc" = "Prideda automatiškai sugeneruotas, išverstas ir automatiškai išverstas antraštes prie antraščių/subtitrų sąrašo.";
+"DownloadCaptions" = "Atsisiųsti antraštes";
+"SelectCaption" = "Pasirinkti antraštes/subtitrus";
+"Translated" = "išversta";
+"TranslatedAutoGen" = "išversta automatiškai";
 
 /* Nav bar options */
-"Navbar" = "Navigation bar";
-"RemoveCast" = "Hide Cast button";
-"RemoveCastDesc" = "Hides Cast button from the Navigation bar.";
-"RemoveNotifications" = "Hide Notifications button";
-"RemoveNotificationsDesc" = "Hides Notifications button from the Navigation bar.";
-"RemoveSearch" = "Hide Search button";
-"RemoveSearchDesc" = "Hides Search button from the Navigation bar.";
-"RemoveVoiceSearch" = "Hide Voice search button";
-"RemoveVoiceSearchDesc" = "Hides Voice search button from the Navigation bar.";
-"StickyNavbar" = "Sticky Navigation bar";
-"StickyNavbarDesc" = "Pins the Navigation bar so that it remains visible when scrolling down.";
-"NoSubbar" = "Hide Subbar";
-"NoSubbarDesc" = "Hides Subbar (All, New to you, Live etc.) under the Navigation bar.";
-"NoYTLogo" = "Remove YouTube logo";
-"NoYTLogoDesc" = "Removes YouTube logo in the Navigation bar.";
-"PremiumYTLogo" = "Set Premium YouTube logo";
-"PremiumYTLogoDesc" = "Sets Premium YouTube logo in the Navigation bar.";
+"Navbar" = "Naršymo juosta";
+"RemoveCast" = "Slėpti Cast mygtuką";
+"RemoveCastDesc" = "Paslepia Cast mygtuką iš Naršymo juostos.";
+"RemoveNotifications" = "Paslėpti Pranešimų mygtuką";
+"RemoveNotificationsDesc" = "Paslepia Pranešimų mygtuką iš Naršymo juostos.";
+"RemoveSearch" = "Paslėpti Paieškos mygtuką";
+"RemoveSearchDesc" = "Paslepia Paieškos mygtuką iš Naršymo juostos.";
+"RemoveVoiceSearch" = "Paslėpti Paieškos balsu mygtuką";
+"RemoveVoiceSearchDesc" = "Paslepia Paieškos balsu mygtuką iš Naršymo juostos.";
+"StickyNavbar" = "Visada matoma Naršymo juosta";
+"StickyNavbarDesc" = "Užfiksuoja Naršymo juostą, kad ji būtu matoma slenkant vaizdą žemyn.";
+"NoSubbar" = "Paslepti papildomą juostą";
+"NoSubbarDesc" = "Paslepia papildomą juostą (Viskas, Nauja tau, Gyvai it t.t.) esančią po Naršymo juosta.";
+"NoYTLogo" = "Paslėpti YouTube logotipą";
+"NoYTLogoDesc" = "Paslepia YouTube logotipą iš Naršymo juostos.";
+"PremiumYTLogo" = "Nustatyti Premium YouTube logotipą";
+"PremiumYTLogoDesc" = "Nustato Premium YouTube logotipą Naršymo juostoje.";
 
 /* Feed options */
 "Feed" = "Feed";
